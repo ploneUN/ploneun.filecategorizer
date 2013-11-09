@@ -1,0 +1,7 @@
+<?xml version="1.0"?>                                                           
+<object name="portal_catalog">                                                  
+    <column value="ploneun_documenttype"/>                                           
+    <index name="ploneun_documenttype" meta_type="FieldIndex">                       
+        <indexed_attr value="ploneun_documenttype"/>                                 
+    </index>                                                                    
+</object>
